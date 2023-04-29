@@ -1,4 +1,4 @@
-package Strategy_Pattern;
+package Strategy_Pattern.Ducks;
 
 import Strategy_Pattern.Fly.FlyWithWings;
 import Strategy_Pattern.Quack.Quack;
